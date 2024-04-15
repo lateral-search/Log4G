@@ -52,4 +52,4 @@ Log4G v1.0 actually was developed and clean compiled with the following versions
 * JRE:1.8.0_152-release-1024-b02 amd64
 * JVM: OpenJDK64-Bit Server VM by JetBrains s.r.o
 
-**note: the list looks big, but everything fits in place after the installation of the Android Studio IDE.**
+**note:  Developed using the Android Studio IDE.**
