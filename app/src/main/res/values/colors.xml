@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#2431A8</color>
+    <color name="colorPrimaryDark">#4771A5</color>
+    <color name="textColorPrimary">#d4e5f9</color>
+    <color name="windowBackground">#4771A5</color>
+    <color name="navigationBarColor">#0D1A81</color>
+    <color name="colorAccent">#7176a6</color>
+
+    <color name="ls_deep_bluee_mid">#0d4190</color>
+    <color name="ls_deep_bluee_dark">#2C3A49</color>
+    <color name="ls_primary_material_light">#254371</color>
+    <color name="ls_background_material_light">#385a82</color>
+    <color name="ls_accent_material_light">#408bff</color>
+    <color name="ls_primary_dark_material_light">#4b5885</color>
+    <color name="ls_accent_material_dark">#5695fb</color>
+    <color name="ls_primary_text_default_material_light">#de2762b5</color>
+    <color name="ls_primary_material_dark">#264269</color>
+    <color name="background_material_light_1">#bfb82b</color>
+
+
+    <color name="primary_material_light">#254371</color>
+    <color name="background_material_light">#385a82</color>
+    <color name="accent_material_light">#408bff</color>
+    <color name="primary_dark_material_light">#4b5885</color>
+    <color name="accent_material_dark">#5695fb</color>
+    <color name="primary_text_default_material_light">#de2762b5</color>
+    <color name="primary_material_dark">#264269</color>
+</resources>

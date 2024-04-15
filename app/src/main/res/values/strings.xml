@@ -1,0 +1,114 @@
+<resources>
+    <string name="app_name">Log4Gravity</string>
+    <string name="synchronize">SINCRONIZAR</string>
+    <string name="searching">Buscando...</string>
+    <string name="textview">Codigo del operador</string>
+    <string name="name" />
+    <string name="gravimeterCode">Codigo del Gravimetro</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="ok">Aceptar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="skip">Omitir</string>
+    <string name="salir">Salir</string>
+    <string name="title_activity_line_points_data">LinePointsDataActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="setup_activity_name">Setup</string>
+    <string name="geotoolService">Log4Gravity Service</string>
+    <string name="setup_activity_u_created">Se creo el usuario: </string>
+    <string name="setup_activity_u_creation_err">ERROR: No fue posible crear el usuario, intente nuevamente</string>
+    <string name="setup_act_just_az_09">Menor a 12 caracteres, y solo [a-z] y [0-9] permitidos para:</string>
+    <string name="setup_act_codigo_u">COD. USUARIO</string>
+    <string name="setup_act_user_12_in">Debe ingresar MIN.6 digitos para:</string>
+    <string name="setup_act_user_err">Ingrese un COD. USUARIO existente.</string>
+    <string name="setup_activity_grav_err">Seleccione un GRAVIMETRO</string>
+    <string name="setup_activity_NA_err">ERROR INESPERADO</string>
+    <string name="setup_activity_user_err">Seleccione un USUARIO</string>
+    <string name="setup_activity_user">Ingrese un COD. USUARIO</string>
+    <string name="setup_act_user">COD. USUARIO</string>
+    <string name="setup_act_user_spin">Ingrese nuevo COD. USUARIO o seleccionelo en el spinner</string>
+    <string name="synchrnzrMsg1">IMPORT ERROR: Se produjo un error al leer la fila numero: </string>
+    <string name="synchrnzrMsg2">\nArchivo: basededatos.xml Por favor revise los datos del archivo. \n</string>
+    <string name="synchrnzrMsg3">Verifique que las celdas de basededatos.xls sean de tipo numerico \n</string>
+    <string name="synchrnzrMsg4">La sincronizacion se ejecuto con errores, y la aplicacion NO \n</string>
+    <string name="synchrnzrMsg5">podra ser utilizada hasta que corrija basededatos.xls  \n</string>
+    <string name="synchrnzrMsg6"> :PUNTOS importados desde basededatos.xls. \n</string>
+    <string name="synchrnzrDataImp">\nDATA IMPORT:\n</string>
+
+    <string name="sync_activity_msg1">Se efectuo un backup del archivo de base de datos \n</string>
+    <string name="sync_activity_msg2">DB Backup Error \n</string>
+
+    <string name="line_sel_act_close_must_be_exec">Para visualizar el Grafico debe ejecutar CERRAR LINEA \n</string>
+
+    <string name="line_data_activity_msg1">Confirma que desea comenzar el RETORNO? \n</string>
+    <string name="line_data_activity_msg2">Confirma crear nuevo PUNTO geografico? \n</string>
+    <string name="line_data_activity_msg3">Confirma que desea CERRAR LINEA? \n</string>
+    <string name="line_data_activity_msg4">Se encontraron anomalias en las observaciones, por favor revise la lista y efectue las correcciones \n</string>
+    <string name="line_data_act_close_exec">La LINEA ya fue cerrada en un intento previo \n</string>
+    <string name="line_data_act_err_qty">La cantidad de PUNTOS de RETORNO es nula o incorrecta, por favor haga las correcciones manuales necesarias \n</string>
+    <string name="line_data_act_unobserved">Falta observar o revisar PUNTOS, por favor revise la lista y efectue las correcciones \n</string>
+    <string name="line_data_act_incomplete">Falta observar o revisar PUNTOS, por favor revise la lista y efectue las correcciones \n</string>
+    <string name="line_data_act_points_min_2">La cantidad de PUNTOS de RETORNO debe ser mayor \n</string>
+    <string name="line_data_act_points_min_2_ret">Para ejecutar RETORNAR, la cantidad de PUNTOS de IDA creados, debe ser igual, o mayor a 2 \n</string>
+    <string name="line_data_act_success">CIERRE DE LINEA exitoso \n</string>
+    <string name="line_data_act_err">Error inesperado \n</string>
+    <string name="line_data_act_return_full">Operacion no disponible,\n Ya se crearon todos los puntos de Retorno necesarios \n</string>
+    <string name="line_data_act_fwd_empty">Debe crear puntos de Ida \n</string>
+    <string name="line_data_act_unexpected">Error inesperado LineDataActivity line:161 \n</string>
+    <string name="line_data_act_close_err">No fue posible cerrar la LINEA. Revise los puntos indicados con ERROR.</string>
+    <string name="line_data_act_already_closed">No puede editar los PUNTOS. La LINEA en cuestion se encuentra CERRADA.</string>
+    <string name="point_crud_act_lat_zero">LATITUD distinto a cero \n</string>
+    <string name="point_crud_act_lon_zero">LONGITUD distinto a cero \n</string>
+
+    <string name="geotool_service_started"></string>
+    <string name="geotool_service_label">Geotool GPS service</string>
+
+    <string name="point_crud_act_in_long">Ingrese un valor de latitud</string>
+    <string name="point_crud_act_in_alt">ALTITUD</string>
+    <string name="point_crud_act_in_offset">OFFSET [m]</string>
+    <string name="point_crud_act_altitude">Altitud</string>
+    <string name="point_crud_act_offset">Offset [m]</string>
+    <string name="point_crud_act_obs">Por favor, Ingrese el valor de la observacion</string>
+    <string name="point_crud_act_searching">Busqueda con GPS de ubicacion actual.</string>
+    <string name="point_crud_act_ask_p_code">Por favor Ingrese un valor para CODIGO PUNTO</string>
+    <string name="point_crud_act_ask_save">Desea guardaar los cambios efectuados?</string>
+    <string name="point_crud_act_search_sat">Detectando Satelites...</string>
+    <string name="point_crud_act_wait">Aguarde!..Detectar satelites puede demorar algunos min. ...</string>
+    <string name="system_gps_unavailable">GPS no disponible.</string>
+    <string name="point_crud_act_gravim_read">LECTURA DEL GRAVIMETRO</string>
+    <string name="point_crud_act_new_pnt">Se ha creado un nuevo punto: </string>
+    <string name="point_crud_act_up_pnt">Se ha actualizado</string>
+    <string name="point_crud_act_reg">registro</string>
+    <string name="point_crud_act_4_in">Debe ingresar 4 digitos para:</string>
+    <string name="point_crud_act_just_az_09">Solo [a-z] y [0-9] permitidos para:</string>
+    <string name="point_crud_act_photo_err">El dispositivo no proceso la fotografia, intente nuevamente</string>
+    <string name="point_crud_act_input_please">Debe ingresar un valor para:</string>
+    <string name="point_crud_act_lat_limit">Latitud debe ser menor o igual que 90, o mayor o igual -90 </string>
+    <string name="point_crud_act_lon_limit">Longitud debe ser menor o igual que 180, o mayor o igual que -180 </string>
+    <string name="point_crud_act_cod_punto">COD. PUNTO</string>
+    <string name="point_crud_act_point_cod_repeated">Debe modificar COD.PUNTO.\n El mismo fue ingresado previamente\n para la actual LINEA</string>
+    <string name="point_crud_act_pnt_cod_in_diff_loc">Intento de asociacion de un punto COD.PUNTO. preexistente.\n con una nueva ubicacion,\n modifique COD.PUNTO. o revise los datos.\n </string>
+    <string name="point_crud_act_gps_disabled">Operacion no disponible:\n El COD.PUNTO. seleccionado pertenece a\n una ubicacion preexistente,\n revise los datos o su actual ubicacion geografica.\n </string>
+    <string name="point_crud_act_pnt_dbcod_repeated">El COD.PUNTO ingresado ya existe en la base de datos.\n Se cargaron los datos geograficos \n correspondientes a dicha ubicacion</string>
+    <string name="point_crud_act_pnt_dbcod_repeated_2">El COD.PUNTO ingresado ya existe en la base de datos.\n Por favor ingrese un COD.PUNTO distinto \n </string>
+    <string name="point_crud_act_latitude">LATITUD</string>
+    <string name="point_crud_act_longitude">LONGITUD</string>
+    <string name="point_crud_act_codigo">CODIGO</string>
+    <string name="point_crud_act_g1">G1</string>
+    <string name="point_crud_act_g2">G2</string>
+    <string name="point_crud_act_g3">G3</string>
+    <string name="point_crud_act_photos">Debe tomar las 3 fotos requeridas</string>
+
+    <string name="point_crud_act_val_code_not_unique">COD.PUNTO.El mismo fue ingresado previamente\n para la actual LINEA</string>
+
+
+
+    <string name="point_sys_status_observed">OBSERVADA</string>
+    <string name="point_sys_status_corrected">CORREGIDA</string>
+    <string name="point_sys_status_pending">PENDING</string>
+    <string name="point_sys_status_anomaly">ANOMALIA</string>
+
+
+
+</resources>
