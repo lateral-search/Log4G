@@ -1,6 +1,6 @@
 ## Log4G - Gravimeter Observations Data Gathering, and Validation/Control Application
 
-**Author:** Andres H. Pityla C.
+**Authors:** Demián D. Gómez, Kevin Ahlgren, Michael G. Bevis, Andres H. Pityla C.
 
 Log4G is a mobile device application developed for the OSU - The Ohio State University using Java and Android. It is used to gather gravity measurements during field work. Log4G has a number of features that make it useful for gravity surveys, including:
 
