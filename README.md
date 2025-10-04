@@ -7,7 +7,7 @@ Log4G is a mobile device application developed for the OSU - The Ohio State Univ
 * Compliance with the OSU field protocol (specifically designed with that in mind; see Research Paper in Related Publications)
 * The ability to load and use per-gravimeter calibration tables
 * The ability to perform real-time data quality and line closure controls to reduce the occurrence of reading blunders and time recording errors
-* The ability to provide other functionality originally from the MATLAB package GRAVITAS (see Research Paper in Related Publications)
+* The ability to provide other functionality originally from the MATLAB package GRAVITAS (see Related Publications)
 * The ability to gather visual info, regular GPS location information, and gravity observations for each geographical point
 * The ability to automatically create a return line from a forward line
 * The ability to export gathered data for post analysis
