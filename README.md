@@ -60,6 +60,8 @@ Log4G v1.0 actually was developed and clean compiled with the following versions
 
 Related publications:
 
+* A robust approach to terrestrial relative gravity measurements and adjustment of gravity networks (2024). Sobrero, F.S., Ahlgren, K., Bevis, M.G., Gómez, D.D., Heck, J., Echalar, A., Caccamise, D.J., Kendrick, E., Montenegro, P., Batistti, A., Contreras Choque, L., Catari, J.C., Tinta Sallico, R., Guerra Trigo, H., Journal of Geodesy 98, 86. https://doi.org/10.1007/s00190-024-01891-w
+
 * GRAVITAS: A Matlab package to compute the gravity differences between stations of multiple gravity lines, and combine them into a network adjustment Authors: Demián D. Gómez, Kevin Ahlgren, Michael G. Bevis https://github.com/demiangomez/GRAVITAS
 
-* A robust approach to terrestrial relative gravity measurements and adjustment of gravity networks (2024). Sobrero, F.S., Ahlgren, K., Bevis, M.G., Gómez, D.D., Heck, J., Echalar, A., Caccamise, D.J., Kendrick, E., Montenegro, P., Batistti, A., Contreras Choque, L., Catari, J.C., Tinta Sallico, R., Guerra Trigo, H., Journal of Geodesy 98, 86. https://doi.org/10.1007/s00190-024-01891-w
+
